@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-left: 10px;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+h1{
+    font-weight: normal;
+}
+li{
+    font-size: x-large;
+}
+nav{
+    width: 60vw;
+    margin-top: 10px;
+}
+img{
+    width: 90vw;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+.contaner{
+    display: flex;
+    text-align: center;
+}
+div{
+    font-size: x-large;
+    text-align: center;
+    margin-left: 2rem;
+}
+
+.bigIMG{
+    width: 150px;
+}
+.contaner>div>p{
+    font-size: x-large;
+}
